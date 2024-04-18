@@ -522,6 +522,8 @@ PODS:
     - React-CoreModules
     - React-RCTImage
     - React-RCTText
+  - RNDateTimePicker (7.7.0):
+    - React-Core
   - RNFastImage (8.6.3):
     - React-Core
     - SDWebImage (~> 5.11.1)
@@ -618,6 +620,7 @@ DEPENDENCIES:
   - React-utils (from `../node_modules/react-native/ReactCommon/react/utils`)
   - ReactCommon/turbomodule/core (from `../node_modules/react-native/ReactCommon`)
   - ReactNativeNavigation (from `../node_modules/react-native-navigation`)
+  - "RNDateTimePicker (from `../node_modules/@react-native-community/datetimepicker`)"
   - RNFastImage (from `../node_modules/react-native-fast-image`)
   - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
   - RNLocalize (from `../node_modules/react-native-localize`)
@@ -735,6 +738,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/ReactCommon"
   ReactNativeNavigation:
     :path: "../node_modules/react-native-navigation"
+  RNDateTimePicker:
+    :path: "../node_modules/@react-native-community/datetimepicker"
   RNFastImage:
     :path: "../node_modules/react-native-fast-image"
   RNGestureHandler:
@@ -809,6 +814,7 @@ SPEC CHECKSUMS:
   React-utils: 9a24cb88f950d1020ee55bddacbc8c16a611e2dc
   ReactCommon: 76843a9bb140596351ac2786257ac9fe60cafabb
   ReactNativeNavigation: 86a23855d2ccc74ad3e59bff1595c2d4b76ed8cc
+  RNDateTimePicker: 4f3c4dbd4f908be32ec8c93f086e8924bd4a2e07
   RNFastImage: 5c9c9fed9c076e521b3f509fe79e790418a544e8
   RNGestureHandler: b83cf821f60b7ec59827f0ed9e5b8c46b1de2c99
   RNLocalize: e8694475db034bf601e17bd3dfa8986565e769eb
