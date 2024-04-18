@@ -1,0 +1,19 @@
+{
+  "name": "react-native-base",
+  "version": "0.0.1",
+  "description": "React Native Base",
+  "repository": "git@github.com:NandhiniSubu/react-native-base",
+  "author": "NandhiniSubu <nandnsl94@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ]
+}
